@@ -1,6 +1,7 @@
 {
     "name": "fcc-productivity",
     "displayName": "FCC Productivity",
+    "publisher": "ChaseKnowlden",
     "description": "10 Extensions From FCC",
     "version": "0.0.1",
     "engines": {
