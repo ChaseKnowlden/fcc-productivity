@@ -1,0 +1,24 @@
+{
+    "name": "fcc-productivity",
+    "displayName": "FCC Productivity",
+    "description": "10 Extensions From FCC",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "eamodio.gitlens",
+        "MS-vsliveshare.vsliveshare",
+        "MeshIntelligentTechnologiesInc.pieces-vscode",
+        "aaron-bond.better-comments",
+        "ChakrounAnas.turbo-console-log",
+        "formulahendry.code-runner",
+        "wix.vscode-import-cost",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-azuretools.vscode-docker"
+    ]
+}
