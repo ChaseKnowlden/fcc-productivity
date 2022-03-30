@@ -13,7 +13,6 @@
     "extensionPack": [ 
         "eamodio.gitlens",
         "MS-vsliveshare.vsliveshare",
-        "MeshIntelligentTechnologiesInc.pieces-vscode",
         "aaron-bond.better-comments",
         "ChakrounAnas.turbo-console-log",
         "formulahendry.code-runner",
