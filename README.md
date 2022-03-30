@@ -10,6 +10,5 @@
 | Docker              |
 | Prettier            |
 | Live Share          |
-| Pieces              |
 | Import Cost         |
 | Code Runner         |
